@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaKeysTest/IdeaKeysTest.iml" filepath="$PROJECT_DIR$/IdeaKeysTest/IdeaKeysTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaTest.iml" filepath="$PROJECT_DIR$/.idea/IdeaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListTest/ListTest.iml" filepath="$PROJECT_DIR$/ListTest/ListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel_poi/excel_poi.iml" filepath="$PROJECT_DIR$/excel_poi/excel_poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" filepath="$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-mq-demo/gmall-mq-demo.iml" filepath="$PROJECT_DIR$/gmall-mq-demo/gmall-mq-demo.iml" />
+    </modules>
+  </component>
+</project>
