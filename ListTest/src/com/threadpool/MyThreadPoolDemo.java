@@ -34,6 +34,7 @@ public class MyThreadPoolDemo {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
+            // 注意关闭
             threadPool.shutdown();
         }
 
